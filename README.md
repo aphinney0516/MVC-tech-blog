@@ -4,7 +4,6 @@
 ## Table of Contents
 - [Description](#description)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Credits](#credits)
 - [Features](#features)
 - [Future Development](#futureDev)
@@ -17,8 +16,6 @@ The intention of this project was to create a blog that can store user informati
 
 ### Installation
 Go to https://git.heroku.com/tech-blog-mvc-style.git
-
-### Usage
 Please see the video below.
 
 ### Credits
